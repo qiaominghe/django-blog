@@ -19,7 +19,7 @@ hiredis==0.2.0
 idna==2.5
 kombu==3.0.37
 Markdown==2.6.10
-markdown2==2.3.5
+markdown2==2.4.0
 marshmallow==2.15.0
 optionaldict==0.1.1
 oss2==2.1.1
